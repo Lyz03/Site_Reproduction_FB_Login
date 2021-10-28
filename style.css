@@ -1,4 +1,16 @@
 body {
     font-family: sans-serif;
-    background-color: #e1e1e1;
+    background-color: #e7e8ea;
+    color: #1c1e21;
+}
+
+div.logo_slogan {
+    width: 40%;
+    height: auto;
+    border: 1px solid black;
+}
+
+.logo_slogan img {
+    width: 70%;
+    height: auto;
 }
